@@ -1,0 +1,56 @@
+
+.App{
+  text-align: center;
+  
+}
+
+.Title{
+  margin-left: 30%;
+  margin-top: 1%;
+  text-align: center;
+  width: 40%;
+  border: 10px solid white;
+  height: 160px;
+  background-color: slategrey;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 4%;
+  
+}
+
+.Title p {
+  font-size: 120%;
+}
+
+.Title h1 {
+  font-size: 200%;
+}
+
+.Search {
+  text-align: center;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+
+.Search input {
+  width: 27%;
+  height: 40px;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  padding: 10px;
+  border-radius: 3px;
+  margin-bottom: 30px;
+}
+
+.cities {
+  width: 25%;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  border: 2px solid white;
+  background-color: darkkhaki;
+  margin-left: 36.5%;
+  text-align: left;
+  padding: 5px;
+}
